@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently studying on ustc. 
+- 🌱 I’m currently learning cpp.
+- 👯 I’m looking to collaborate on LeetCode.
+- 🤔 I’m looking for help with cpp.
+- 💬 Ask me about anything.
+- 
 <!--
 **AustinDeng/AustinDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
