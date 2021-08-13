@@ -6,8 +6,8 @@ Here are some of my introductions:
 
 - 🔭 I’m currently studying on ustc. 
 - 🌱 I’m currently learning cpp.
-- 👯 I’m looking to collaborate on LeetCode.
-- 🤔 I’m looking for help with cpp.
+- :office: Now I working in Shenzhen.
+- 🤔 I’m looking for Like-minded friends.
 - 💬 Ask me about anything.
 
 
