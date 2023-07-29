@@ -7,8 +7,6 @@ Here are some of my introductions:
 - 🔭 I graduated from USTC. 
 - 🌱 I'm learning how to become a qualified operation and maintenance engineer.
 - :office: Now I working in Shenzhen.
-- 🤔 I’m looking for Like-minded friends.
-- 💬 Ask me about anything.
 - :mailbox: How to reach me: nidhogg.dxx@gmail.com.
 - :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyKnowledgeBase](https://austindeng.github.io/Notebook/)  
 
