@@ -10,10 +10,11 @@ Here are some of my introductions:
 - 🤔 I’m looking for Like-minded friends.
 - 💬 Ask me about anything.
 
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animcdation" src="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **AustinDeng/AustinDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
