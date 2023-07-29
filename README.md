@@ -4,11 +4,14 @@
 
 Here are some of my introductions:
 
-- 🔭 I’m currently studying on ustc. 
-- 🌱 I’m currently learning cpp.
+- 🔭 I graduated from USTC. 
+- 🌱 I'm learning how to become a qualified operation and maintenance engineer.
 - :office: Now I working in Shenzhen.
 - 🤔 I’m looking for Like-minded friends.
 - 💬 Ask me about anything.
+- :mailbox: How to reach me: nidhogg.dxx@gmail.com.
+- :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyKnowledgeBase](https://austindeng.github.io/Notebook/)  
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake-dark.svg">
