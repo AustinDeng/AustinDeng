@@ -1,12 +1,14 @@
-### Hi there 👋
+![](assets/Bottom_up.svg)
+
+<!--   my-header-img -->
+![](./src/header_.png)
+
+<!--   my-ticker --> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lugrasimo&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+AustinDeng.;Welcome+to+my+GitHub+homepage.;I+graduated+from+USTC.+;Now+I+am+working+in+Shenzhen.;Ask+me+about+anything+%F0%9F%98%84.)](https://git.io/typing-svg)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AustinDeng&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
-Here are some of my introductions:
 
-- 🔭 I graduated from USTC. 
-- 🌱 I'm learning how to become a qualified operation and maintenance engineer.
-- :office: Now I working in Shenzhen.
 - :mailbox: How to reach me: nidhogg.dxx@gmail.com.
 - :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyKnowledgeBase](https://austindeng.github.io/Notebook/)  
 
@@ -16,3 +18,6 @@ Here are some of my introductions:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animcdation" src="https://raw.githubusercontent.com/AustinDeng/AustinDeng/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+![](assets/Bottom_down.svg)
