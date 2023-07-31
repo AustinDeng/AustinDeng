@@ -2,6 +2,8 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 <!--   my-ticker --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lugrasimo&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+AustinDeng.;Welcome+to+my+GitHub+homepage.;I+graduated+from+USTC.+;Now+I+am+working+in+Shenzhen.;Ask+me+about+anything+%F0%9F%98%84.)](https://git.io/typing-svg)
