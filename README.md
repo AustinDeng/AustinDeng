@@ -10,6 +10,7 @@
 
 <img align="right" src="https://github-readme-stats-974050603-qqcom.vercel.app/api?username=AustinDeng&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900&theme=radical&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 
+[![Top Langs](https://github-readme-stats-974050603-qqcom.vercel.app/api/top-langs/?username=AustinDeng&layout=compact)](https://github.com/AustinDeng/github-readme-stats)
 
 <!-- ![AustinDeng's GitHub stats](https://github-readme-stats-974050603-qqcom.vercel.app/api?username=AustinDeng&show_icons=true&theme=radical) -->
 
