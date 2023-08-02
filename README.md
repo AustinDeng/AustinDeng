@@ -11,6 +11,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AustinDeng&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 
+![AustinDeng's GitHub stats](https://ithub-readme-stats-974050603-qqcom.vercel.app/api?username=AustinDeng&show_icons=true&theme=radical)
+
+
 - :mailbox: How to reach me: nidhogg.dxx@gmail.com.
 - :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyKnowledgeBase](https://austindeng.github.io/Notebook/)  
 
