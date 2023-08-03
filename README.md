@@ -16,7 +16,7 @@
 
 
 - :mailbox: How to reach me: nidhogg.dxx@gmail.com.
-- :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyKnowledgeBase](https://austindeng.github.io/Notebook/)  
+- :rocket: Know more about me： [MyBlog](https://austindeng.github.io/) or [MyNotebook](https://austindeng.github.io/Notebook/)  
 
 
 <picture>
