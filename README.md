@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats-974050603-qqcom.vercel.app/api/top-langs/?username=AustinDeng&layout=compact)](https://github.com/AustinDeng/github-readme-stats)
 
-<!-- ![AustinDeng's GitHub stats](https://github-readme-stats-974050603-qqcom.vercel.app/api?username=AustinDeng&show_icons=true&theme=radical) -->
+<!-- ![AustinDeng's GitHub stats](https://github-readme-stats-974050603-qqcom.vercel.app/api?username=AustinDeng&show_icons=true&theme=radical) .-->
 
 
 - :mailbox: How to reach me: nidhogg.dxx@gmail.com.
